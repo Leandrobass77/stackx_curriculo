@@ -1,1 +1,1 @@
-# Criação do currículo utilizando o Html
+# Criação do currículo utilizando o Html.
